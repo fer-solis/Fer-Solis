@@ -1,9 +1,14 @@
 <img align='center' height="250" width="1100px" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/myReadme.GIF?alt=media&token=49fac9c5-6287-4571-85cb-1b5339da0012"/> 
 
 # ¡Hola!
+
+
+<img align='right' width="200px" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/Coding-amico.png?alt=media&token=092f830b-fb60-4c3c-bafe-9f77f6b7a1bc"/> 
+
 Soy Mexicana, estudié una carrera en Diseño Gráfico en el área de Audiovisual y Multimedia, un diplomado en animación 2D y 3D y ahora desarrollo front-end trabajando principalmente con **JAVASCIPT, HTML Y CSS** y una segunda carrera en Informática.
 
 Me gusta estar en constante aprendizaje por eso quiero utilizar esa pasión en disminuir la brecha de género que existe actualmente en tecología. Siempre pienso con responsabilidad un plan A o B o los planes que sean necesarios para alcanzar mis objetivos. 
+
 
 
 ### Lenguajes y herramientas
@@ -14,6 +19,7 @@ Me gusta estar en constante aprendizaje por eso quiero utilizar esa pasión en d
 
 ### Contáctame
 ------------
+
 <p align="center">
 Próximo redes sociales
 </p>
