@@ -31,4 +31,4 @@ Me gusta estar en constante aprendizaje por eso quiero utilizar esa pasión en d
 <a href="https://github.com/fer-solis/CDMX010-burger-queen-api-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fer-solis&repo=CDMX010-burger-queen-api-client&theme=jolly" />
 </a>
-  </p>
+</p>
