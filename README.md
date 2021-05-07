@@ -22,5 +22,13 @@ Me gusta estar en constante aprendizaje por eso quiero utilizar esa pasión en d
 <a  href="https://www.behance.net/fer-solis" target="_blank"><img width="150" alt="Behance" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/botonesRedesGithub-05.jpg?alt=media&token=b9d3d7e7-8ca2-4bb4-913d-27a1b4db73da"></a> <a  href="https://www.linkedin.com/in/fer-solis/" target="_blank"><img width="150" alt="Linkedin" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/botonesRedesGithub-04.jpg?alt=media&token=5c518a93-0f72-4e00-973c-b9eedd0beab3"></a> <a  href="https://www.instagram.com/fer_solise/" target="_blank"><img width="150" alt="Instagram" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/botonesRedesGithub-03.jpg?alt=media&token=d4cff34a-5950-4354-bad0-78e5a9424266"></a> <a  href="https://twitter.com/fer_solise" target="_blank"><img width="150" alt="Twitter" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/botonesRedesGithub-02.jpg?alt=media&token=b7f0a493-6c79-42a9-bfc9-b6e2c33964a6"></a>
 </p>
 
-
-
+### Repositorios
+------------
+<p align="center">
+<a href="https://github.com/fer-solis/CDMX010-social-network">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fer-solis&repo=CDMX010-social-network&theme=jolly" />
+</a>
+<a href="https://github.com/fer-solis/CDMX010-burger-queen-api-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fer-solis&repo=CDMX010-burger-queen-api-client&theme=jolly" />
+</a>
+  </p>
