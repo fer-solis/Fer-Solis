@@ -8,7 +8,7 @@ Soy Mexicana, estudié una carrera en Diseño Gráfico en el área de Audiovisua
 
 Soy desarrolladora front-end en práctica profesional y diseñadora con 3 años de experiencia con retailers, creando contenido impreso y digital. Por mi experiencia laboral y educativa soy capaz de combinar mis conocimientos en **JAVASCIPT, HTML Y CSS y diseño gráfico** y mis habilidades en **comunicación, adaptabilidad y autoaprendizaje**, involucrandome en los procesos de productos para lograr mejores resultados y así brindar excelentes experiencias para usuarios.
 
-Me gusta salir de mi zona de confort, por ello siempre estoy en constante aprendizaje, buscando mejora y crecimiento continuo personal y profesional. Siempre construyo con responsabilidad los planes que sean necesarios para lograr mis objetivos. Quiero poner mi granito de arena para disminuir la brecha de género que existe actualmente en tecología.
+Me gusta salir de mi zona de confort, por ello siempre estoy en constante aprendizaje, buscando mejora y crecimiento continuo personal y profesional. Siempre construyo con responsabilidad los planes que sean necesarios para lograr mis objetivos. Quiero poner mi granito de arena para disminuir la brecha de género que existe actualmente en tecnología.
 
 
 
