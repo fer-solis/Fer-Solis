@@ -4,9 +4,11 @@
 
 <img align='right' width="200px" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/Coding-amico.png?alt=media&token=092f830b-fb60-4c3c-bafe-9f77f6b7a1bc"/> 
 
-Soy Mexicana, estudié una carrera en Diseño Gráfico en el área de Audiovisual y Multimedia, un diplomado en animación 2D y 3D y ahora desarrollo front-end trabajando principalmente con **JAVASCIPT, HTML Y CSS** y una segunda carrera en Informática.
+Soy Mexicana, estudié una carrera en Diseño Gráfico en el área de Audiovisual y Multimedia, un diplomado en animación 2D y 3D y ahora estudio desarrollo front-end y una segunda carrera en Informática.
 
-Me gusta estar en constante aprendizaje por eso quiero utilizar esa pasión en disminuir la brecha de género que existe actualmente en tecología. Siempre pienso con responsabilidad un plan A o B o los planes que sean necesarios para alcanzar mis objetivos. 
+Soy desarrolladora front-end en práctica profesional y diseñadora con 3 años de experiencia con retailers, creando contenido impreso y digital. Por mi experiencia laboral y educativa soy capaz de combinar mis conocimientos en **JAVASCIPT, HTML Y CSS y diseño gráfico** y mis habilidades en **comunicación, adaptabilidad y autoaprendizaje**, involucrandome en los procesos de productos para lograr mejores resultados y así brindar excelentes experiencias para usuarios.
+
+Me gusta salir de mi zona de confort, por ello siempre estoy en constante aprendizaje, buscando mejora y crecimiento continuo personal y profesional. Siempre construyo con responsabilidad los planes que sean necesarios para lograr mis objetivos. Quiero poner mi granito de arena para disminuir la brecha de género que existe actualmente en tecología.
 
 
 
