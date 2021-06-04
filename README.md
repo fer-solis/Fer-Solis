@@ -36,4 +36,7 @@ Me gusta salir de mi zona de confort, por ello siempre estoy en constante aprend
   <a href="https://github.com/fer-solis/Mock-Hackathon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fer-solis&repo=Mock-Hackathon&theme=jolly" />
 </a>
+  <a href="https://github.com/fer-solis/Hackathon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fer-solis&repo=Hackathon&theme=jolly" />
+</a>
 </p>
