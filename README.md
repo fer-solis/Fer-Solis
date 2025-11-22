@@ -4,11 +4,22 @@
 
 <img align='right' width="200px" src="https://firebasestorage.googleapis.com/v0/b/personal-13210.appspot.com/o/Coding-amico.png?alt=media&token=092f830b-fb60-4c3c-bafe-9f77f6b7a1bc"/> 
 
-Soy Mexicana, estudié una carrera en Diseño Gráfico en el área de Audiovisual y Multimedia, un diplomado en animación 2D y 3D y ahora estudio desarrollo front-end y una segunda carrera en Informática.
+Mi historia profesional comenzó con el Diseño Gráfico (creando impacto en ventas para marcas como Comex y Kokoro Mx) y se solidificó con una inmersión en el desarrollo Front-End (React/JavaScript) en entornos de alto tráfico (Aeroméxico). Esta evolución me permite crear diseños que no solo son estéticos y usables, sino también técnicamente viables y escalables.
 
-Soy desarrolladora front-end en práctica profesional y diseñadora con 3 años de experiencia con retailers, creando contenido impreso y digital. Por mi experiencia laboral y educativa soy capaz de combinar mis conocimientos en **JAVASCIPT, HTML Y CSS y diseño gráfico** y mis habilidades en **comunicación, adaptabilidad y autoaprendizaje**; involucrandome en los procesos de productos para lograr mejores resultados y así brindar excelentes experiencias de usuario.
+Mi trabajo se basa en transformar la investigación en soluciones funcionales. Me especializo en guiar proyectos end-to-end, desde la obtención de insights hasta el prototipado de alta fidelidad.
 
-Me gusta salir de mi zona de confort, por ello siempre estoy en constante aprendizaje, buscando mejora y crecimiento continuo personal y profesional. Siempre construyo con responsabilidad los planes que sean necesarios para lograr mis objetivos. Quiero poner mi granito de arena para disminuir la brecha de género que existe actualmente en tecnología.
+**Lo que me diferencia es mi perspectiva de implementación: No solo diseño el producto; entiendo el código que lo hará funcionar.**
+
+Sé lo que se necesita para construir un diseño. Esto acelera el handoff y minimiza fricciones con el equipo de ingeniería.
+
+Utilizo metodologías ágiles (SCRUM) e integro métricas para validar decisiones, asegurando que cada pixel y flujo de interacción sirva a un objetivo de negocio.
+
+Tengo dominio de Figma (Auto Layout, Design Systems), Miro y la aplicación de Inteligencia Artificial (IA) para procesos de diseño innovadores.
+
+**Mi Misión:**
+Estoy buscando proyectos ambiciosos donde mi visión dual (Diseño y Código) pueda impulsar la usabilidad y el rendimiento del producto.
+
+**¡Echa un vistazo a mis proyectos para ver mi proceso de diseño y cómo resuelvo problemas complejos!**
 
 
 
